@@ -98,8 +98,6 @@ When I'm not training models, I'm **playing or building games** 🎮 — game de
 
 </div>
 
-</div>
-
 ---
 
 ## 🎮 Beyond Data Science
