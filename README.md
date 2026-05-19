@@ -92,22 +92,6 @@ When I'm not training models, I'm **playing or building games** 🎮 — game de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldair-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff&cache_seconds=1800"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldair-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aldair-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aldair-ai&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
