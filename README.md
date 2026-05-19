@@ -142,13 +142,3 @@ I'm open to **senior Data Scientist**, **ML Engineer**, or **AI Lead** opportuni
 *Thanks for stopping by! If something here resonates — let's talk 🚀*
 
 </div>
-
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:6C63FF,100:00D4FF&height=120&section=footer&animation=fadeIn" />
-
-*Thanks for stopping by! If something here resonates — let's talk 🚀*
-
-</div>
-
