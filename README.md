@@ -92,21 +92,15 @@ When I'm not training models, I'm **playing or building games** 🎮 — game de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldair-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldair-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldair-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldair-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aldair-ai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aldair-ai&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aldair-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9D&currStreakLabel=00D4FF" />
 
 </div>
 
@@ -140,6 +134,15 @@ I'm open to **senior Data Scientist**, **ML Engineer**, or **AI Lead** opportuni
 </div>
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:6C63FF,100:00D4FF&height=120&section=footer&animation=fadeIn" />
+
+*Thanks for stopping by! If something here resonates — let's talk 🚀*
+
+</div>
+
 
 <div align="center">
 
