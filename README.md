@@ -92,9 +92,10 @@ When I'm not training models, I'm **playing or building games** 🎮 — game de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldair-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=aldair-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9D&currStreakLabel=00D4FF" />
 
 </div>
+
 
 ---
 
