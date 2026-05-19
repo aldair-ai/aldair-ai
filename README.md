@@ -92,18 +92,10 @@ When I'm not training models, I'm **playing or building games** 🎮 — game de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldair-ai&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldair-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=6C63FF&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldair-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aldair-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9D&currStreakLabel=00D4FF" />
-
-</div>
-
 ---
 
 ## 🎮 Beyond Data Science
